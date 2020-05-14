@@ -1,0 +1,15 @@
+name: cart
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python>3.6.0
+  - pandas
+  - jupyter
+  - matplotlib
+  - seaborn
+  - pip
+  - scipy
+  - scikit-learn
+  - python-graphviz
+  - pip:
